@@ -1,0 +1,1 @@
+<footer class="footer text-center">2024 Tujuh Enam Sarana. All Rights Reserved.</footer>
